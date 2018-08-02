@@ -4,7 +4,7 @@ namespace ktaris\traits;
 
 use yii\helpers\ArrayHelper;
 
-trait ModelFunctionsTrait
+trait ModelTrait
 {
     // ==================================================================
     //
